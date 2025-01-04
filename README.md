@@ -12,9 +12,14 @@ Este repositorio tiene como objetivo proporcionar recursos de aprendizaje concis
 
 ## 📚 Tecnologías Cubiertas
 
-### Ciencias de la Computacion
+### Fundamentos de Ciencias de la Computacion
+- Algoritmos
+- Estructuras de Datos
+- Patrones de Diseño
+- Sistemas Distribuidos
+- Base de Datos
 
-### Fundamentos Web
+### Fundamentos de desarrollo Web
 - HTML5
 - CSS3
 - JavaScript (ES6+)
@@ -28,6 +33,23 @@ Este repositorio tiene como objetivo proporcionar recursos de aprendizaje concis
 - Node.js
 - Flask
 - FastAPI
+- Deno.js
+
+## De Junior a Senior
+- Clean Code
+- Arquitectura
+- Testing
+- Performance
+- Seguridad
+- Patrones de diseño
+
+## Deep Dive (2-3 horas)
+- Estructuras de Datos en JavaScript
+- Patrones de Diseño Prácticos
+- Testing con Jest y React Testing Library
+- Docker para Desarrolladores
+- APIs REST Best Practices
+- Angular Components & Services
 
 ## 🗂️ Estructura del Repositorio
 
